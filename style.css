@@ -143,14 +143,53 @@ margin: 3px 0;
 .blogitem{
     margin: 20px;
     font-family: 'Fira Sans Extra Condensed', sans-serif;
-
+    
 }
 .blogcontainer h1{
     font-family: 'Fira Sans Extra Condensed', sans-serif;
     margin: 23px;
-
+    
 }
 .blogitem p{
     font-family: 'Sevillana', cursive;
+    
+}
 
+.intro h2{
+    
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    margin: 12px;
+    
+    
+}
+.intro p{
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    
+}
+.skillcontainer{
+    padding: 12px;
+
+}
+.skillitem{
+    display: flex;
+    align-items: center;
+}
+.skill{
+    width: 265px;
+    height: 6px;
+    background-color: green;
+    border: 2px solid black;
+
+}
+    .hundred{
+    width: 265;
+    background-color: blueviolet;
+}
+    .fifty{
+    width: 125;
+    background-color: aqua;
+}
+    .tf{
+    width: 75;
+    background-color: yellow;
 }
